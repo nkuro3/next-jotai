@@ -42,6 +42,9 @@ export default function Home() {
       <div>
         <Link href="/immer">Immer</Link>
       </div>
+      <div>
+        <Link href="store">Store</Link>
+      </div>
     </>
   );
 }
